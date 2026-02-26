@@ -1,0 +1,22 @@
+body {
+background-color: black;
+color: gold;
+font-family: Arial;
+text-align: center;
+}
+
+.box {
+border: 2px solid gold;
+padding: 20px;
+margin: 20px;
+}
+
+table {
+margin: auto;
+border-collapse: collapse;
+}
+
+th, td {
+border: 1px solid gold;
+padding: 10px;
+}
